@@ -1,4 +1,4 @@
-const url = "http://quotes.stormconsultancy.co.uk/random.json";
+const url = "https://quotes.stormconsultancy.co.uk/random.json";
 let paragraph = "";
 let current_index = 0;
 let text = document.querySelector(".text-remaining");
